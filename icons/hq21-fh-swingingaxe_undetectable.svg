@@ -1,12 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(-3.82857e-16,1,-1,-3.82857e-16,19.037,0.981)">
-        <g id="Page-1">
-            <g id="swingingaxe">
-                <g id="fh-swingingaxeHQ21">
-                    <path id="Fill-7699" d="M-0,0L19.056,0L19.056,19.018L-0,19.018L-0,0Z" style="fill:rgb(109,172,130);"/>
-                    <path id="Fill-7701" d="M2.657,6.167C3.058,6.186 3.343,6.215 3.627,6.211C6.312,6.18 7.974,8.675 6.772,10.937C6.055,12.284 4.756,12.959 3.101,12.853C3.016,12.848 2.926,12.929 2.841,12.969C3.67,15.601 6.404,17.64 9.338,17.654C12.529,17.67 15.705,15.613 16.281,13.044C14.976,12.965 13.778,12.695 12.827,11.714C11.873,10.731 11.562,9.659 12.102,8.428C12.662,7.151 13.595,6.281 15.148,6.222C15.383,6.213 15.623,6.27 15.857,6.252C16.375,6.213 16.549,5.86 16.257,5.441C16.09,5.201 15.836,5.008 15.704,4.755C15.187,3.767 14.395,3.038 13.427,2.463C11.006,1.023 8.182,1.01 5.819,2.353C4.316,3.208 3.427,4.492 2.657,6.167" style="fill:rgb(82,22,40);"/>
+<svg
+   width="19.018"
+   height="19.056"
+   viewBox="0 0 19.018 19.056"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="svg9"
+   sodipodi:docname="hq21-fh-swingingaxe_undetectable.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13" /><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="39.333333"
+   inkscape:cx="9.9661017"
+   inkscape:cy="9.5084746"
+   inkscape:window-width="1920"
+   inkscape:window-height="1012"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg9" />
+    <g
+   transform="rotate(90,9.509,9.509)"
+   id="g7">
+        <g
+   id="Page-1">
+            <g
+   id="swingingaxe">
+                <g
+   id="fh-swingingaxeHQ21">
+                    <path
+   id="Fill-7699"
+   d="M 0,0 H 19.056 V 19.018 H 0 Z"
+   style="fill:#6dac82" />
+                    <path
+   id="Fill-7701"
+   d="m 2.657,6.167 c 0.401,0.019 0.686,0.048 0.97,0.044 2.685,-0.031 4.347,2.464 3.145,4.726 -0.717,1.347 -2.016,2.022 -3.671,1.916 -0.085,-0.005 -0.175,0.076 -0.26,0.116 0.829,2.632 3.563,4.671 6.497,4.685 3.191,0.016 6.367,-2.041 6.943,-4.61 -1.305,-0.079 -2.503,-0.349 -3.454,-1.33 -0.954,-0.983 -1.265,-2.055 -0.725,-3.286 0.56,-1.277 1.493,-2.147 3.046,-2.206 0.235,-0.009 0.475,0.048 0.709,0.03 0.518,-0.039 0.692,-0.392 0.4,-0.811 C 16.09,5.201 15.836,5.008 15.704,4.755 15.187,3.767 14.395,3.038 13.427,2.463 11.006,1.023 8.182,1.01 5.819,2.353 4.316,3.208 3.427,4.492 2.657,6.167"
+   style="fill:#521628" />
                 </g>
             </g>
         </g>
